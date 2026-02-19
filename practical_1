@@ -1,0 +1,14 @@
+rollno = 13328
+name = "Harshali"
+
+print(f"My roll no : {rollno}, my name is : {name}")
+
+X = {"pid": 101, "pname": "book"}
+X["price"] = 20
+print(X)
+
+y=[[2,3,10,20],[25,15,27]]
+print(y[1][2])
+
+X = tuple(a*a for a in range(1, 6))
+print(X)
